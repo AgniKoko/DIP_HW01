@@ -28,7 +28,7 @@ This repository contains the Python implementation for the first lab assignment 
 
 ## Tasks
 
-The assignment consists of the following steps, implemented sequentially in the Jupyter Notebook (`notebooks/Assignment1.ipynb`):
+The assignment consists of the following steps, implemented sequentially in the Jupyter Notebook:
 
 1. **Compute XYZ tristimulus values**
    - Load spectral CMF data from `data/cieXYZ_curves.csv`.
