@@ -66,10 +66,7 @@ The assignment consists of the following steps, implemented sequentially in the 
 - **Temperature distribution plot** (`output/temperature_plot.png`)
 
 ## Running the Notebook
-Open `DIP_HW01.ipynb` in Jupyter and execute all cells:
-```bash
-jupyter notebook notebooks/Assignment1.ipynb
-```
+Open `DIP_HW01.ipynb` in Jupyter and execute all cells.
 
 ## References
 - Planck’s law for blackbody radiation
