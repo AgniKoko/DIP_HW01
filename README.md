@@ -17,7 +17,6 @@ This repository contains the Python implementation for the first lab assignment 
 │   ├── material_mask.png      # Binary mask isolating material region
 │   ├── temperature_map.png    # Heatmap of estimated temperatures
 │   └── temperature_plot.png   # Plot of temperature distribution and mean temperature
-├── requirements.txt          # Python dependencies
 └── README.md                 # This document
 ```
 
