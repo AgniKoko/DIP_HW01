@@ -3,6 +3,8 @@
 ## Description
 This repository contains the Python implementation for the first lab assignment of the Digital Image Processing course. The goal is to analyze thermal radiation captured by a camera, convert and visualize it in different color spaces, and estimate material temperature using blackbody radiation principles.
 
+![image](https://github.com/user-attachments/assets/1f31c812-c2ad-4ccd-905d-a05df8946a18)
+
 ## Contents
 
 ```plaintext
