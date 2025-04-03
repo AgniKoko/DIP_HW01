@@ -61,11 +61,12 @@ The assignment consists of the following steps, implemented sequentially in the 
    - Create a histogram based on the per-pixel temperature distribution and generate and save a heatmap (`output/temperature_map.png`) and a temperature distribution plot (`output/temperature_plot.png`).
 
 ## Outputs
+- **RGB Color Matching Functions plot** (`output/CMF.png`)
 - **Demosaiced RGB image** (`output/demosaiced.png`)
 - **Chromaticity trajectory plot** (`output/xy_chromaticities.png`)
 - **Material mask** (`output/material_mask.png`)
-- **Temperature heatmap** (`output/temperature_map.png`)
-- **Temperature distribution plot** (`output/temperature_plot.png`)
+- **Temperature heatmap** (`output/temperature_heatmap.png`)
+- **Temperature distribution plot** (`output/temperature_histogram.png`)
 
 ## Running the Notebook
 Open `DIP_HW01.ipynb` in Jupyter and execute all cells.
