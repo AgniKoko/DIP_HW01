@@ -11,16 +11,17 @@ This repository contains the Python implementation for the first lab assignment 
 ```plaintext
 ├── data/
 │   ├── CFA_stream.png         # Raw Bayer-pattern image of thermal emission
-│   ├── chromaDiagram.png       # CIE xy chromaticity diagram
+│   ├── chromaDiagram.png      # CIE xy chromaticity diagram
 │   └── cieXYZ_curves.csv      # Color Matching Functions (CMF) data for 1 nm wavelengths
-├── DIP_HW01.ipynb            # Jupyter Notebook with all tasks implemented
+├── DIP_HW01.ipynb             # Jupyter Notebook with all tasks implemented
 ├── output/
-│   ├── demosaiced.png         # RGB image after demosaicing
-│   ├── xy_chromaticities.png # Chromaticity trajectory plot
-│   ├── material_mask.png      # Binary mask isolating material region
-│   ├── temperature_map.png    # Heatmap of estimated temperatures
-│   └── temperature_plot.png   # Plot of temperature distribution and mean temperature
-└── README.md                 # This document
+│   ├── CMF.png        
+│   ├── demosaiced.png       
+│   ├── xy_chromaticities.png 
+│   ├── material_mask.png     
+│   ├── temperature_map.png    
+│   └── temperature_plot.png  
+└── README.md                
 ```
 
 ## Setup
