@@ -1,4 +1,4 @@
-# Digital Image Processing — 1st Course Assignment (Academic Year 2024–2025)
+# Digital Image Processing — 1st Course Assignment
 
 ## Description
 This repository contains the Python implementation for the first lab assignment of the Digital Image Processing course. The goal is to analyze thermal radiation captured by a camera, convert and visualize it in different color spaces, and estimate material temperature using blackbody radiation principles.
