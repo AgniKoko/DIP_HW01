@@ -69,8 +69,8 @@ The assignment consists of the following steps, implemented sequentially in the 
 - **Material mask** (`output/material_mask.png`)
 - **Temperature heatmap** (`output/temperature_heatmap.png`)
 - **Temperature distribution plot** (`output/temperature_histogram.png`)
-- **The new generated x,y.** (`output/xy_new.png`)
-- **Correlation diagram of the old x,y curves with the new generated x,y.** ('output/xy_old_new_correlation.png')
+- **The new generated x,y** (`output/xy_new.png`)
+- **Correlation diagram of the old x,y curves with the new generated x,y** (`output/xy_old_new_correlation.png`)
 
 ## Running the Notebook
 Open `DIP_HW01.ipynb` in Jupyter and execute all cells.
